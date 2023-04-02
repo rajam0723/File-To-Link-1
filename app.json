@@ -13,13 +13,13 @@
       "media",
       "bot"
     ],
-  "repository": "https://github.com/adarsh-goel/FileStreamBot-pro/",
+  "repository": "https://github.com/rajam0723/File-To-Link-1",
   "success_url": "/",
-  "logo": "https://i.ibb.co/MnMZ1Sy/download-1.jpg",
+  "logo": "https://telegra.ph/file/186c2c702c0476d03016c.jpg",
   "website": "http://adarsh.eu.org",
   "env": {
       "ENV": {
-          "description": "Set this to True if you don't want to crash the bot",
+          "description": "Set this to True ID you don't want to crash the bot",
           "value": "True"
       },
       "APP_NAME": {
